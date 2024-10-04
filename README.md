@@ -34,10 +34,6 @@
 
 The PDFs will be automatically downloaded to the `pdf_downloads` folder. 📂
 
-## Screenshot 📸
-*(Add your screenshot here)*
-
-![Screenshot](screenshot.png)
 
 ## License ⚖️
 This project is licensed under the MIT License.
