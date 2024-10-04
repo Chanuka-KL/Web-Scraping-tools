@@ -17,7 +17,7 @@
 ## Installation 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WebPDF-Scraper.git
+   git clone https://github.com/Chanuka-KL/Web-Scraping-tools/tree/main/WebPDF-Scraper
    ```
 2. Install the required dependencies:
    ```bash
